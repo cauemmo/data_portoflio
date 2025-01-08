@@ -1,4 +1,6 @@
 # Documentação do Projeto de Dados: Análise de Perfil de Pacientes com Doenças Cardíacas 
+![image](https://github.com/user-attachments/assets/a84266c4-266a-42fa-96c2-f151b50b20da)
+
 ### Sumário
 - [Contexto e Visão Geral](#contexto-e-visão-geral)
 - [Visão Geral da Estrutura de Dados](#visão-geral-da-estrutura-de-dados)
