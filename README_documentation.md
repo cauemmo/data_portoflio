@@ -7,7 +7,7 @@
 - [Resumo Executivo](#resumo-executivo)
 - [Detalhamento dos Insights](#detalhamento-dos-insights)
 - [Recomendações dos Próximos Passos](#recomendações-dos-próximos-passos)
-- [Aplicativo Streamlit] (#Aplicativo-Streamlit)
+- [Aplicativo Streamlit](#Aplicativo-Streamlit)
 - [Análise Técnica e Exploratória dos Dados](#análise-técnica-e-exploratória-dos-dados)
 
 # Contexto e Visão Geral
